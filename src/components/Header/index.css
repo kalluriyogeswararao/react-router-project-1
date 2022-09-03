@@ -1,0 +1,41 @@
+.wave {
+  width: 50px;
+  margin-right: 20px;
+}
+
+.nav-container {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  margin: auto;
+}
+.title {
+  font-family: 'roboto';
+  font-size: 30px;
+  color: #6d396b;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.link-items {
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  list-style-type: none;
+  font-size: 25px;
+  margin-right: 30px;
+  font-family: 'roboto';
+}
+
+.link-part {
+  text-decoration: none;
+  color: #12022f;
+  font-weight: 600;
+}
